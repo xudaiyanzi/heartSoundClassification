@@ -1,1 +1,4 @@
 data/
+labels.npy
+mfcc_features.npy
+mel_spectrogram_features.npy
